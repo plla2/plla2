@@ -39,4 +39,4 @@ Here are some ideas to get you started:
   <br/>  <br/>  <br/>
   
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plla2&layout=compact&theme=merko)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plla2&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plla2&layout=compact&theme=merko) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plla2&show_icons=true&theme=merko)
