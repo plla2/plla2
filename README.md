@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! 👋👋
+I'm a job seeker who dreams of becoming a great front-end developer💥
 
 <!--
 **plla2/plla2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&fontAlign=30&fontSize=60&text=plla2's%20github&animation=fadeIn)
