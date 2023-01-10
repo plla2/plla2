@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&fontAlign=50&fontSize=60&text=Welcome!!&desc=plla2's%20github&descAlign=80&animation=fadeIn)
 <div align=center>
 <h4>🙋🏻‍♂️Introduce</h4>
-<h5>안녕하세요 ! 저는 프론트엔드 개발자가 되기 위하여 공부중입니다.</br>훌륭한 프론트엔드 개발자를 꿈꾸고 있습니다.</br></h5>
-<h5>배울게 엄청많은 만큼 엄청많은 노력을 하고있는 대학생입니다.🧑🏻‍🎓<h5>
+<h5>I am dreaming of becoming a great front-end developer who studies until I can't do it.🧑🏻‍🎓</br></h5>
+<h5>Regret for wasted time is more wasted time.<h5>
+<h5>I will become a developer who learns widely, asks in detail, thinks deeply, distinguishes clearly, and practices steadily.👍🏻</h5>
 </div>
 
 <div align=center>
