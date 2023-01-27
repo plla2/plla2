@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <h4>💻Studying</h4>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Node.js-35495E?style=flat&logo=Node.js&logoColor=339933"/>
 </div>
   <br/>  <br/>  <br/>
   
