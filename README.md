@@ -37,6 +37,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-35495E?style=flat&logo=Node.js&logoColor=339933"/>
 </div>
+  
+<div align=center>
+  <h4>🗺️Blog</h4>
+  <button><a href=https://velog.io/@plla_2">Velog Link</a></button>
   <br/>  <br/>  <br/>
   
   
