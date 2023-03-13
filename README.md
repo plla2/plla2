@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 <div align=center>
   <h4>🗺️Blog</h4>
-  <a href=https://velog.io/@plla_2>Velog Link</a>
+  <a href=https://jhbljs92.tistory.com/>Blog Link</a>
   <br/>  <br/>  <br/>
   
   
