@@ -23,7 +23,7 @@ I'm a job seeker who dreams of becoming a great front-end developer💥
 <br>
   
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reactquery-FF4154?style=flat&logo=react-query&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Reactquery-FF4154?style=flat&logo=react-query&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat&logo=Styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=flat&logo=Redux&logoColor=white"/>
   
