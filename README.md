@@ -1,18 +1,21 @@
 ### Hi! 👋👋
+
 I'm a job seeker who dreams of becoming a great front-end developer💥
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&fontAlignY=35&fontAlign=30&fontSize=50&text=Welcome!!&desc=plla2's%20github&descAlign=80&animation=twinkling)
 <div>
-<h4>🙋🏻‍♂️Introduce</h4>
-<h5>I am dreaming of becoming a great front-end developer who studies until I can't do it.🧑🏻‍🎓</br></h5>
-<h5>Regret for wasted time is more wasted time.<h5>
-<h5>I will become a developer who learns widely, asks in detail, thinks deeply, distinguishes clearly, and practices steadily.👍🏻</h5>
+<h3>🙋🏻‍♂️Introduce</h3>
+  
+</br>
+<span>I am dreaming of becoming a great front-end developer who studies until I can't do it.🧑🏻‍🎓</span>
+<p>Regret for wasted time is more wasted time.</p>
+<p>I will become a developer who learns widely, asks in detail, thinks deeply, distinguishes clearly, and practices steadily.👍🏻</p>
 </div>
 <br>
   
 <hr>
 
-<h4>🔋 Skills</h4>
+<p>🔋 Skills</p>
 <div>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -32,7 +35,7 @@ I'm a job seeker who dreams of becoming a great front-end developer💥
 <hr>
  
 <div>
-  <h4>💻 Studying</h4>
+  <p>💻 Studying</p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
@@ -42,7 +45,7 @@ I'm a job seeker who dreams of becoming a great front-end developer💥
 <hr>
   
 <div>
-  <h4>🗺️ Blog</h4>
+  <p>🗺️ Blog</p>
   
   <a herf="[https://jhbljs92.tistory.com/]" traget="_blank">
 <img src="https://img.shields.io/badge/Tistory-FF9E0F?style=flat&logo=TISTORY&logoColor=white"/>
