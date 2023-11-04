@@ -12,7 +12,7 @@ I'm a job seeker who dreams of becoming a great front-end developer💥
 <p>I will become a developer who learns widely, asks in detail, thinks deeply, distinguishes clearly, and practices steadily.👍🏻</p>
 </div>
 <br>
-  
+  <a href="https://app.daily.dev/seunghyun0"><img src="https://api.daily.dev/devcards/2471945680b94103a10d24e4ce5c9a68.png?r=2jp" width="300" alt="SeungHyun's Dev Card" align="right" /></a>
 <hr>
 
 <p>🔋 Skills</p>
