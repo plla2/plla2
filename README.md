@@ -1,5 +1,12 @@
 ### Hi! 👋👋
 
+<div align=end>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplla2&count_bg=%23EFBC9B&title_bg=%23FBF3D5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</br>
+
+  </div>
+  
 I'm a job seeker who dreams of becoming a great front-end developer💥
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&fontAlignY=35&fontAlign=30&fontSize=50&text=Welcome!!&desc=plla2's%20github&descAlign=80&animation=twinkling)
