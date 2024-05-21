@@ -55,10 +55,10 @@ I'm a job seeker who dreams of becoming a great front-end developer💥
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=plla2&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)-->
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plla2&layout=compact&theme=merko)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plla2&layout=compact&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plla2&show_icons=true&theme=merko)
-
 <div align=end>
+-->
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplla2&count_bg=%23EFBC9B&title_bg=%23FBF3D5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
