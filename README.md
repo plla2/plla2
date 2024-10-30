@@ -1,6 +1,6 @@
-### Hi! 👋
+### Hi, Hello!
   
-I'm a job seeker who dreams of becoming a great front-end developer
+I am a junior front-end developer with dreams of becoming great.
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&fontAlignY=35&fontAlign=30&fontSize=50&text=Welcome!!&desc=plla2's%20github&descAlign=80&animation=twinkling)-->
 <div>
@@ -9,8 +9,13 @@ I'm a job seeker who dreams of becoming a great front-end developer
 </br>
 <span>I am dreaming of becoming a great front-end developer who studies until I can't do it.</span>
 <p>Regret for wasted time is more wasted time.</p>
-<p>I will become a developer who learns widely, asks in detail, thinks deeply, distinguishes clearly, and practices steadily.👍🏻</p>
+<p>I will become a developer who learns widely, asks in detail, thinks deeply, distinguishes clearly, and practices steadily.</p>
 </div>
+</br></br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/plla2?pet-id=586904799182396453" width="1000" height="300"/>
+</a>
 <!--   <a href="https://app.daily.dev/seunghyun0"><img src="https://api.daily.dev/devcards/2471945680b94103a10d24e4ce5c9a68.png?r=0q5" width="300" alt="SeungHyun's Dev Card" align="right"/></a> -->
 
 <!--<p>🔋 Skills</p>-->
