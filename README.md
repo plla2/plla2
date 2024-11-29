@@ -13,11 +13,7 @@ I am a junior front-end developer with dreams of becoming great.
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/plla2"
-  width="600"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/lines/plla2?pet-id=640768895975657229" width="800" height="300"/>
 </a>
 
 <!-- <a href="https://github.com/devxb/gitanimals">
